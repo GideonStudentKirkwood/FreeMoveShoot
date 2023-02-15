@@ -1,0 +1,57 @@
+C:\Users\grimj\OneDrive\Desktop\FreeMoveShoot\FreeMoveShoot\bin\Debug\net6.0-windows\FreeMoveShoot.exe
+C:\Users\grimj\OneDrive\Desktop\FreeMoveShoot\FreeMoveShoot\bin\Debug\net6.0-windows\FreeMoveShoot.deps.json
+C:\Users\grimj\OneDrive\Desktop\FreeMoveShoot\FreeMoveShoot\bin\Debug\net6.0-windows\FreeMoveShoot.runtimeconfig.json
+C:\Users\grimj\OneDrive\Desktop\FreeMoveShoot\FreeMoveShoot\bin\Debug\net6.0-windows\FreeMoveShoot.dll
+C:\Users\grimj\OneDrive\Desktop\FreeMoveShoot\FreeMoveShoot\bin\Debug\net6.0-windows\FreeMoveShoot.pdb
+C:\Users\grimj\OneDrive\Desktop\FreeMoveShoot\FreeMoveShoot\obj\Debug\net6.0-windows\FreeMoveShoot.csproj.AssemblyReference.cache
+C:\Users\grimj\OneDrive\Desktop\FreeMoveShoot\FreeMoveShoot\obj\Debug\net6.0-windows\FreeMoveShoot.Form1.resources
+C:\Users\grimj\OneDrive\Desktop\FreeMoveShoot\FreeMoveShoot\obj\Debug\net6.0-windows\FreeMoveShoot.Properties.Resources.resources
+C:\Users\grimj\OneDrive\Desktop\FreeMoveShoot\FreeMoveShoot\obj\Debug\net6.0-windows\FreeMoveShoot.csproj.GenerateResource.cache
+C:\Users\grimj\OneDrive\Desktop\FreeMoveShoot\FreeMoveShoot\obj\Debug\net6.0-windows\FreeMoveShoot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grimj\OneDrive\Desktop\FreeMoveShoot\FreeMoveShoot\obj\Debug\net6.0-windows\FreeMoveShoot.AssemblyInfoInputs.cache
+C:\Users\grimj\OneDrive\Desktop\FreeMoveShoot\FreeMoveShoot\obj\Debug\net6.0-windows\FreeMoveShoot.AssemblyInfo.cs
+C:\Users\grimj\OneDrive\Desktop\FreeMoveShoot\FreeMoveShoot\obj\Debug\net6.0-windows\FreeMoveShoot.csproj.CoreCompileInputs.cache
+C:\Users\grimj\OneDrive\Desktop\FreeMoveShoot\FreeMoveShoot\obj\Debug\net6.0-windows\FreeMoveShoot.dll
+C:\Users\grimj\OneDrive\Desktop\FreeMoveShoot\FreeMoveShoot\obj\Debug\net6.0-windows\refint\FreeMoveShoot.dll
+C:\Users\grimj\OneDrive\Desktop\FreeMoveShoot\FreeMoveShoot\obj\Debug\net6.0-windows\FreeMoveShoot.pdb
+C:\Users\grimj\OneDrive\Desktop\FreeMoveShoot\FreeMoveShoot\obj\Debug\net6.0-windows\FreeMoveShoot.genruntimeconfig.cache
+C:\Users\grimj\OneDrive\Desktop\FreeMoveShoot\FreeMoveShoot\obj\Debug\net6.0-windows\ref\FreeMoveShoot.dll
+C:\Users\grimj\OneDrive\Desktop\FreeMoveShoot\FreeMoveShoot\bin\Debug\net6.0-windows\GameMusic.wav
+C:\Users\grimj\OneDrive\Desktop\space shooters\FreeMoveShoot\FreeMoveShoot\FreeMoveShoot\bin\Debug\net6.0-windows\FreeMoveShoot.exe
+C:\Users\grimj\OneDrive\Desktop\space shooters\FreeMoveShoot\FreeMoveShoot\FreeMoveShoot\bin\Debug\net6.0-windows\GameMusic.wav
+C:\Users\grimj\OneDrive\Desktop\space shooters\FreeMoveShoot\FreeMoveShoot\FreeMoveShoot\bin\Debug\net6.0-windows\FreeMoveShoot.deps.json
+C:\Users\grimj\OneDrive\Desktop\space shooters\FreeMoveShoot\FreeMoveShoot\FreeMoveShoot\bin\Debug\net6.0-windows\FreeMoveShoot.runtimeconfig.json
+C:\Users\grimj\OneDrive\Desktop\space shooters\FreeMoveShoot\FreeMoveShoot\FreeMoveShoot\bin\Debug\net6.0-windows\FreeMoveShoot.dll
+C:\Users\grimj\OneDrive\Desktop\space shooters\FreeMoveShoot\FreeMoveShoot\FreeMoveShoot\bin\Debug\net6.0-windows\FreeMoveShoot.pdb
+C:\Users\grimj\OneDrive\Desktop\space shooters\FreeMoveShoot\FreeMoveShoot\FreeMoveShoot\obj\Debug\net6.0-windows\FreeMoveShoot.csproj.AssemblyReference.cache
+C:\Users\grimj\OneDrive\Desktop\space shooters\FreeMoveShoot\FreeMoveShoot\FreeMoveShoot\obj\Debug\net6.0-windows\FreeMoveShoot.Form1.resources
+C:\Users\grimj\OneDrive\Desktop\space shooters\FreeMoveShoot\FreeMoveShoot\FreeMoveShoot\obj\Debug\net6.0-windows\FreeMoveShoot.Properties.Resources.resources
+C:\Users\grimj\OneDrive\Desktop\space shooters\FreeMoveShoot\FreeMoveShoot\FreeMoveShoot\obj\Debug\net6.0-windows\FreeMoveShoot.csproj.GenerateResource.cache
+C:\Users\grimj\OneDrive\Desktop\space shooters\FreeMoveShoot\FreeMoveShoot\FreeMoveShoot\obj\Debug\net6.0-windows\FreeMoveShoot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grimj\OneDrive\Desktop\space shooters\FreeMoveShoot\FreeMoveShoot\FreeMoveShoot\obj\Debug\net6.0-windows\FreeMoveShoot.AssemblyInfoInputs.cache
+C:\Users\grimj\OneDrive\Desktop\space shooters\FreeMoveShoot\FreeMoveShoot\FreeMoveShoot\obj\Debug\net6.0-windows\FreeMoveShoot.AssemblyInfo.cs
+C:\Users\grimj\OneDrive\Desktop\space shooters\FreeMoveShoot\FreeMoveShoot\FreeMoveShoot\obj\Debug\net6.0-windows\FreeMoveShoot.csproj.CoreCompileInputs.cache
+C:\Users\grimj\OneDrive\Desktop\space shooters\FreeMoveShoot\FreeMoveShoot\FreeMoveShoot\obj\Debug\net6.0-windows\FreeMoveShoot.dll
+C:\Users\grimj\OneDrive\Desktop\space shooters\FreeMoveShoot\FreeMoveShoot\FreeMoveShoot\obj\Debug\net6.0-windows\refint\FreeMoveShoot.dll
+C:\Users\grimj\OneDrive\Desktop\space shooters\FreeMoveShoot\FreeMoveShoot\FreeMoveShoot\obj\Debug\net6.0-windows\FreeMoveShoot.pdb
+C:\Users\grimj\OneDrive\Desktop\space shooters\FreeMoveShoot\FreeMoveShoot\FreeMoveShoot\obj\Debug\net6.0-windows\FreeMoveShoot.genruntimeconfig.cache
+C:\Users\grimj\OneDrive\Desktop\space shooters\FreeMoveShoot\FreeMoveShoot\FreeMoveShoot\obj\Debug\net6.0-windows\ref\FreeMoveShoot.dll
+C:\Users\grimj\OneDrive\Desktop\FreeMoveShoot\FreeMoveShoot\FreeMoveShoot\bin\Debug\net6.0-windows\FreeMoveShoot.exe
+C:\Users\grimj\OneDrive\Desktop\FreeMoveShoot\FreeMoveShoot\FreeMoveShoot\bin\Debug\net6.0-windows\GameMusic.wav
+C:\Users\grimj\OneDrive\Desktop\FreeMoveShoot\FreeMoveShoot\FreeMoveShoot\bin\Debug\net6.0-windows\FreeMoveShoot.deps.json
+C:\Users\grimj\OneDrive\Desktop\FreeMoveShoot\FreeMoveShoot\FreeMoveShoot\bin\Debug\net6.0-windows\FreeMoveShoot.runtimeconfig.json
+C:\Users\grimj\OneDrive\Desktop\FreeMoveShoot\FreeMoveShoot\FreeMoveShoot\bin\Debug\net6.0-windows\FreeMoveShoot.dll
+C:\Users\grimj\OneDrive\Desktop\FreeMoveShoot\FreeMoveShoot\FreeMoveShoot\bin\Debug\net6.0-windows\FreeMoveShoot.pdb
+C:\Users\grimj\OneDrive\Desktop\FreeMoveShoot\FreeMoveShoot\FreeMoveShoot\obj\Debug\net6.0-windows\FreeMoveShoot.csproj.AssemblyReference.cache
+C:\Users\grimj\OneDrive\Desktop\FreeMoveShoot\FreeMoveShoot\FreeMoveShoot\obj\Debug\net6.0-windows\FreeMoveShoot.Form1.resources
+C:\Users\grimj\OneDrive\Desktop\FreeMoveShoot\FreeMoveShoot\FreeMoveShoot\obj\Debug\net6.0-windows\FreeMoveShoot.Properties.Resources.resources
+C:\Users\grimj\OneDrive\Desktop\FreeMoveShoot\FreeMoveShoot\FreeMoveShoot\obj\Debug\net6.0-windows\FreeMoveShoot.csproj.GenerateResource.cache
+C:\Users\grimj\OneDrive\Desktop\FreeMoveShoot\FreeMoveShoot\FreeMoveShoot\obj\Debug\net6.0-windows\FreeMoveShoot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grimj\OneDrive\Desktop\FreeMoveShoot\FreeMoveShoot\FreeMoveShoot\obj\Debug\net6.0-windows\FreeMoveShoot.AssemblyInfoInputs.cache
+C:\Users\grimj\OneDrive\Desktop\FreeMoveShoot\FreeMoveShoot\FreeMoveShoot\obj\Debug\net6.0-windows\FreeMoveShoot.AssemblyInfo.cs
+C:\Users\grimj\OneDrive\Desktop\FreeMoveShoot\FreeMoveShoot\FreeMoveShoot\obj\Debug\net6.0-windows\FreeMoveShoot.csproj.CoreCompileInputs.cache
+C:\Users\grimj\OneDrive\Desktop\FreeMoveShoot\FreeMoveShoot\FreeMoveShoot\obj\Debug\net6.0-windows\FreeMoveShoot.dll
+C:\Users\grimj\OneDrive\Desktop\FreeMoveShoot\FreeMoveShoot\FreeMoveShoot\obj\Debug\net6.0-windows\refint\FreeMoveShoot.dll
+C:\Users\grimj\OneDrive\Desktop\FreeMoveShoot\FreeMoveShoot\FreeMoveShoot\obj\Debug\net6.0-windows\FreeMoveShoot.pdb
+C:\Users\grimj\OneDrive\Desktop\FreeMoveShoot\FreeMoveShoot\FreeMoveShoot\obj\Debug\net6.0-windows\FreeMoveShoot.genruntimeconfig.cache
+C:\Users\grimj\OneDrive\Desktop\FreeMoveShoot\FreeMoveShoot\FreeMoveShoot\obj\Debug\net6.0-windows\ref\FreeMoveShoot.dll

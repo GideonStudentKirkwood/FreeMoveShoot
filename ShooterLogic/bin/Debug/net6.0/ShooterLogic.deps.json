@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ShooterLogic/1.0.0": {
+        "dependencies": {
+          "ShooterDataAccess": "1.0.0",
+          "ShooterDataObjects": "1.0.0"
+        },
+        "runtime": {
+          "ShooterLogic.dll": {}
+        }
+      },
+      "ShooterDataAccess/1.0.0": {
+        "dependencies": {
+          "ShooterDataObjects": "1.0.0"
+        },
+        "runtime": {
+          "ShooterDataAccess.dll": {}
+        }
+      },
+      "ShooterDataObjects/1.0.0": {
+        "runtime": {
+          "ShooterDataObjects.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ShooterLogic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ShooterDataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ShooterDataObjects/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "ShooterDataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "ShooterDataObjects": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ShooterDataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ShooterDataAccess.dll": {}
+        }
+      },
+      "ShooterDataObjects/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ShooterDataObjects.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ShooterDataObjects.dll": {}
+        }
+      },
+      "ShooterLogic/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "ShooterDataAccess": "1.0.0",
+          "ShooterDataObjects": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ShooterLogic.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ShooterLogic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ShooterDataAccess/1.0.0": {
+      "type": "project",
+      "path": "../ShooterDataAccess/ShooterDataAccess.csproj",
+      "msbuildProject": "../ShooterDataAccess/ShooterDataAccess.csproj"
+    },
+    "ShooterDataObjects/1.0.0": {
+      "type": "project",
+      "path": "../ShooterDataObjects/ShooterDataObjects.csproj",
+      "msbuildProject": "../ShooterDataObjects/ShooterDataObjects.csproj"
+    },
+    "ShooterLogic/1.0.0": {
+      "type": "project",
+      "path": "../ShooterLogic/ShooterLogic.csproj",
+      "msbuildProject": "../ShooterLogic/ShooterLogic.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "ShooterDataObjects >= 1.0.0",
+      "ShooterLogic >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\grimj\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\grimj\\OneDrive\\Desktop\\FreeMoveShoot\\FreeMoveShoot\\FreeMoveShoot.csproj",
+      "projectName": "FreeMoveShoot",
+      "projectPath": "C:\\Users\\grimj\\OneDrive\\Desktop\\FreeMoveShoot\\FreeMoveShoot\\FreeMoveShoot.csproj",
+      "packagesPath": "C:\\Users\\grimj\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\grimj\\OneDrive\\Desktop\\FreeMoveShoot\\FreeMoveShoot\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\grimj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {
+            "C:\\Users\\grimj\\OneDrive\\Desktop\\FreeMoveShoot\\ShooterDataObjects\\ShooterDataObjects.csproj": {
+              "projectPath": "C:\\Users\\grimj\\OneDrive\\Desktop\\FreeMoveShoot\\ShooterDataObjects\\ShooterDataObjects.csproj"
+            },
+            "C:\\Users\\grimj\\OneDrive\\Desktop\\FreeMoveShoot\\ShooterLogic\\ShooterLogic.csproj": {
+              "projectPath": "C:\\Users\\grimj\\OneDrive\\Desktop\\FreeMoveShoot\\ShooterLogic\\ShooterLogic.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
